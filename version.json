@@ -1,10 +1,14 @@
 {
-  "latestCode": 2,
-  "latestName": "2.0",
+  "latestCode": 3,
+  "latestName": "2.1",
   "baseCode": 2,
-  "apkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v2.0/Chess-Trainer.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v2.0/Chess-Trainer.apk",
-  "apkSize": 82123365,
-  "apkSha256": "f5f4c516aacaf8d03736df647f3fd8f6d188c7f9c0a8c61f71e22887f2ab874a",
-  "notes": "Chess Trainer v2.0: delta updates are in \u2014 this release is the base; future updates arrive as small patches through the Update pill on the home screen. Drag to move: press a piece, drag it, drop it (tap still works). Chess sounds and sliding-piece animations, chess.com style, with a sound toggle in Settings."
+  "apkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v2.1/Chess-Trainer.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v2.1/Chess-Trainer.apk",
+  "apkSize": 82160298,
+  "apkSha256": "5d0eea294bd9b1f2f862990239ef820b528ad9decd2d01a74991b923fba2530f",
+  "notes": "Chess Trainer v2.1: sound fix, delivered as the first delta patch. Checks and castles now have their own real sounds (the v2 set played silence for checks and a plain move for castles); move and capture sounds refreshed from the same open Lichess set. Nothing else changes.",
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/chess-trainer-updates/main/patches/v2-to-v21.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v2.1/v2-to-v21.patch",
+  "patchSize": 851325,
+  "patchSha256": "f9f14f1aad3762064091903f1d6d345aedc188677228c87a5d8ec67b383b30da"
 }

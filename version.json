@@ -1,14 +1,14 @@
 {
-  "latestCode": 5,
-  "latestName": "4.0",
-  "baseCode": 4,
-  "apkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v4.0/Chess-Trainer.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v4.0/Chess-Trainer.apk",
-  "apkSize": 82238187,
-  "apkSha256": "82f5915cb0b0bb1375be448f7ece12e25c3c9338052532b95ee1f082360f7d63",
-  "notes": "Chess Trainer v4.0: a real Daily Puzzle \u2014 one new puzzle every day, the same for everyone, unrated, with a streak for finishing it. Puzzle Rush arrives with both chess.com modes: 3-Minute Rush and Survival \u2014 three strikes, puzzles that get harder as you solve, best scores saved. And Openings: a 250-line book of the most common openings with an Explorer that names your line as you play it, plus a Practice drill that keeps you on the book moves. Game Review's Book badge now reads the real opening book too.",
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/chess-trainer-updates/main/patches/v30-to-v40.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v4.0/v30-to-v40.patch",
-  "patchSize": 898979,
-  "patchSha256": "b9d2ee74b77e22a59b82b093d1f07f8524cce4c7a3ba26a1b91532d61d4853c9"
+  "latestCode": 6,
+  "latestName": "5.0",
+  "baseCode": 5,
+  "apkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v5.0/Chess-Trainer.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v5.0/Chess-Trainer.apk",
+  "apkSize": 82283243,
+  "apkSha256": "cc116bd52c33a5639d7a86e75dd50eeb5423d5dc6dd1f58a45c0f66100e02f7e",
+  "notes": "Chess Trainer v5.0: the Learn tab becomes a real library. Endgame Practice: 15 canonical endings \u2014 queen, rook, pawn and bishop endings, rook + pawn vs rook, the Philidor and Vancura defences \u2014 played against the engine's best defence, with a coach Hint and a Solved tick for every ending you convert or hold. And 23 lessons in four sections: Getting Started (how every piece moves, castling, en passant, checkmate and stalemate \u2014 all on the board), Tactics (fork, pin, skewer, back-rank mate, discovered attack, deflection, hanging pieces \u2014 each with three guided puzzles), Opening Principles (checked against the engine's top choices) and Endgame Basics, which end by opening the matching endgame drill.",
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/chess-trainer-updates/main/patches/v40-to-v50.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v5.0/v40-to-v50.patch",
+  "patchSize": 941673,
+  "patchSha256": "371ba2e1b0fcd3374c86a272561785b5fb66eb7aa27121c0a7d44b07d154aed2"
 }

@@ -1,0 +1,10 @@
+{
+  "latestCode": 2,
+  "latestName": "2.0",
+  "baseCode": 2,
+  "apkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v2.0/Chess-Trainer.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v2.0/Chess-Trainer.apk",
+  "apkSize": 82123365,
+  "apkSha256": "f5f4c516aacaf8d03736df647f3fd8f6d188c7f9c0a8c61f71e22887f2ab874a",
+  "notes": "Chess Trainer v2.0: delta updates are in \u2014 this release is the base; future updates arrive as small patches through the Update pill on the home screen. Drag to move: press a piece, drag it, drop it (tap still works). Chess sounds and sliding-piece animations, chess.com style, with a sound toggle in Settings."
+}

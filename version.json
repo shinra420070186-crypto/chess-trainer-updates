@@ -1,14 +1,14 @@
 {
-  "latestCode": 3,
-  "latestName": "2.1",
-  "baseCode": 2,
-  "apkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v2.1/Chess-Trainer.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v2.1/Chess-Trainer.apk",
-  "apkSize": 82160298,
-  "apkSha256": "5d0eea294bd9b1f2f862990239ef820b528ad9decd2d01a74991b923fba2530f",
-  "notes": "Chess Trainer v2.1: sound fix, delivered as the first delta patch. Checks and castles now have their own real sounds (the v2 set played silence for checks and a plain move for castles); move and capture sounds refreshed from the same open Lichess set. Nothing else changes.",
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/chess-trainer-updates/main/patches/v2-to-v21.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v2.1/v2-to-v21.patch",
-  "patchSize": 851325,
-  "patchSha256": "f9f14f1aad3762064091903f1d6d345aedc188677228c87a5d8ec67b383b30da"
+  "latestCode": 4,
+  "latestName": "3.0",
+  "baseCode": 3,
+  "apkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v3.0/Chess-Trainer.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v3.0/Chess-Trainer.apk",
+  "apkSize": 82209450,
+  "apkSha256": "954f1f6ce093f419e4bf205ca3363f4dfaaacda0d956026a73d7abed1be0c97c",
+  "notes": "Chess Trainer v3.0: the app is rebuilt into the chess.com app's shell \u2014 bottom nav with Home, Puzzles, Learn, Play and More tabs. New: every finished game is saved, Game Review analyses your games move by move (accuracy, Brilliant/Great/Mistake/Blunder badges, eval graph, coach explanations), and the Analysis Board lets you explore any position and play it against a bot. The Training coach now speaks in a speech bubble with a Why? button, and judges your moves with the same words as Game Review.",
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/chess-trainer-updates/main/patches/v21-to-v30.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v3.0/v21-to-v30.patch",
+  "patchSize": 872310,
+  "patchSha256": "540b9767b818580aeb463f7becea589707f53e0ed329c643fe36edba7de29642"
 }

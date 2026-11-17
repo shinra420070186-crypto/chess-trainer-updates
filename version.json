@@ -1,14 +1,14 @@
 {
-  "latestCode": 7,
-  "latestName": "5.1",
-  "baseCode": 6,
-  "apkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v5.1/Chess-Trainer.apk",
-  "fullApkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v5.1/Chess-Trainer.apk",
-  "apkSize": 82246310,
-  "apkSha256": "c12801bbcafaa994653b6c14df4c1d5d65b310d9bf137038cede793ada4eeb8f",
-  "notes": "Chess Trainer v5.1: sounds reverted. The v2.1 sound swap is undone at Gaurav's verdict ('so funny now, the v2 sfx was better') \u2014 the sound set is again exactly the Lichess standard set that shipped in v2.0, byte-for-byte, with v2.0's behaviour (castles and promotions play the move sound; checks are silent, as in v2.0). Nothing else changes.",
-  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/chess-trainer-updates/main/patches/v50-to-v51.patch",
-  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v5.1/v50-to-v51.patch",
-  "patchSize": 901046,
-  "patchSha256": "8444a4f9dfe0e1add28e9aac4a142271f3a9e092cdf8f0d1a4cbb9d69f6d71f9"
+  "latestCode": 8,
+  "latestName": "6.0",
+  "baseCode": 7,
+  "apkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v6.0/Chess-Trainer.apk",
+  "fullApkUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v6.0/Chess-Trainer.apk",
+  "apkSize": 82295462,
+  "apkSha256": "97b520d25c577ea29f29fa6cfea78eccd4e44333933a25588e99604645f8cd5a",
+  "notes": "Chess Trainer v6.0: the design rebuild, from Gaurav's own recording of the chess.com app. New nav (Home / Puzzles / Learn / Watch / More) with the big green Play button on Home; journey-map Puzzles and Learn tabs; coach-bubble puzzle and lesson screens; a New Game screen with Play Bots, Play Coach (named levels, horizontal eval bar), Custom Game and the new Play in Person (two humans, one phone); the Bots page gains its purple gradient, bot greetings and crowns for beaten bots. Sounds untouched.",
+  "patchUrl": "https://raw.githubusercontent.com/shinra420070186-crypto/chess-trainer-updates/main/patches/v51-to-v60.patch",
+  "patchMirrorUrl": "https://github.com/shinra420070186-crypto/chess-trainer-updates/releases/download/v6.0/v51-to-v60.patch",
+  "patchSize": 988436,
+  "patchSha256": "0945a31a59cab36a002b12e01c4683c8c19afc3daede26f143f8f73a15019109"
 }
